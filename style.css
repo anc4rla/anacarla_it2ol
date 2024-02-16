@@ -1,0 +1,24 @@
+body{
+    background-color: cadetblue;
+ }
+ header{
+   padding: 32px;
+   border-bottom: 1px solid white;
+   background-color: white;
+ }
+ header div {
+   text-align: center;
+ }
+ header div a {
+   color: burlywood;
+   font-size: 20px;
+   line-height: 30px;
+   margin: 0 16px;
+   text-decoration: none;
+   font-family: "Mulish", sans-serif;
+
+ }
+header div a:hover{
+color: black;
+transition: color 700ms;
+}
