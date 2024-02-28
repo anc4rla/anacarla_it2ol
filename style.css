@@ -1,9 +1,9 @@
 body{
-    background-color: cadetblue;
+    background-color: black;
  }
  header{
    padding: 20px;
-   border-bottom: 1px white;
+   border-bottom: 5px solid plum;
    background-color: white;
  }
  header div {
