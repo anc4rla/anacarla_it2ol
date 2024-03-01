@@ -1,10 +1,12 @@
 body{
-    background-color: black;
+    background-color: lightblue;
+    border-radius: 7%;
  }
  header{
    padding: 20px;
    border-bottom: 5px solid plum;
    background-color: white;
+   border-radius: 1%;
  }
  header div {
    text-align: center;
@@ -26,36 +28,38 @@ transition: color 700ms;
 
 #box {
   text-align: center;
-  padding: 5px;
+  padding: 0px;
 }
 
 #box img {
   border-radius: 50%;
   margin-bottom: 0px;
-  margin-top: 20px;
-  width: 200px;
+  margin-top: 0px;
+  width: 150px;
 }
 
 #box h1 {
-  font-size: 25px;
+  font-size: 23px;
   line-height: 52px;
   font-weight: bold;
   font-family: "Mulish", sans-serif;
+  margin-top: 0px;
+  margin-bottom: 5px;
 }
 
 #box h2 {
-  font-size: 23px;
+  font-size: 20px;
   line-height: 34px;
   font-weight:normal;
-  margin-top: 1px;
-  opacity: 0.8;
+  margin-top: 0px;
   margin-bottom: 0px;
+  opacity: 0.8;
   font-family: "Mulish", sans-serif;
 
 }
 
 #linksFooter{
-  padding-top: 32px;
+  padding-top: 20px;
 }
 
 #linksFooter a{
