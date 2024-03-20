@@ -4,7 +4,7 @@ body{
  }
  header{
    padding: 20px;
-   border-bottom: 5px solid plum;
+   border-bottom: 5px solid cadetblue;
    background-color: white;
    border-radius: 1%;
  }
@@ -22,7 +22,7 @@ body{
 
  }
 .links a:hover{
-color: plum;
+color: cadetblue;
 transition: color 700ms;
 }
 
